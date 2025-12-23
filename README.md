@@ -1,4 +1,4 @@
-# Hi, I’m Tamem Jalallar
+# Hi, I’m Tamem (Tom) Jalallar
 
 **Senior IT Systems Administrator | Technical Lead | Automation & Endpoint Management**
 
