@@ -11,35 +11,45 @@ Parsippany, NJ
 
 I’m a Senior IT Systems Administrator and Technical Lead with 6+ years of enterprise experience supporting executive leadership, automating workflows, and managing large-scale identity, endpoint, and infrastructure environments.
 
-I specialize in **modern endpoint management**, **identity & access control**, and **automation** across Windows and macOS environments, with a strong focus on reliability, security, and user experience. I’m known for being a go-to escalation point, mentoring peers, and turning complex problems into scalable solutions.
+I specialize in modern endpoint management, identity & access control, and automation across Windows and macOS ecosystems, with a strong focus on reliability, security, compliance, and user experience. I’m known as a trusted escalation point, a mentor, and someone who turns complex problems into scalable, repeatable solutions.
 
 ---
 
 ## Core Skills & Focus Areas
 
-- **Technical Leadership & Mentorship**
-- **Identity & Access Management** (Okta, Entra ID / Azure AD)
-- **Endpoint Management** (Intune, Kandji, Jamf, ABM)
-- **Automation & Scripting** (PowerShell)
-- **Windows & macOS Enterprise Support**
-- **ServiceNow Administration & Escalation Management**
-- **AV Production for Executive & Corporate Events**
+- Identity & Access Management (IAM) — Okta, Entra ID / Azure AD
+- Endpoint & Device Management — Intune, Kandji, Jamf, Apple Business Manager (ABM)
+- Automation & Scripting — PowerShell
+- Windows & macOS Enterprise Support
+- ServiceNow Administration & Escalation Management
+- AV Production for Executive & Corporate Events
+- Onboarding, Access Provisioning & Compliance Workflows
 
 ---
 
 ## Professional Experience
 
-### **WPP / Ogilvy**  
-**Senior IT Systems Administrator / AV & VIP Support**  
+### **WPP**  
+**Senior IT Systems Administrator**  
 *September 2018 – Present*
 
-- Serve as escalation lead for executive-level and enterprise IT issues  
-- Lead AV production for town halls, leadership meetings, and global events  
-- Administer Okta, Entra/Azure AD, Intune, Kandji, Jamf, and ABM  
-- Build PowerShell automation to reduce manual IT workload  
-- Own onboarding, access provisioning, and compliance workflows  
-- Manage ServiceNow queues and resolver groups  
-- Mentor junior engineers and standardize troubleshooting practices  
+- Serve as primary escalation lead for executive-level and enterprise IT issues
+- Administer Okta, Entra ID / Azure AD, Intune, Kandji, Jamf, and ABM across large user populations
+- Design and own onboarding, access provisioning, and compliance workflows
+- Build PowerShell automation to reduce manual workload and improve operational consistency
+- Manage ServiceNow queues, resolver groups, and incident escalation paths 
+- Mentor junior engineers and help standardize troubleshooting and support practices
+
+## **Ogilvy**
+AV & VIP Support
+September 2018 – Present
+
+- Provide dedicated IT and AV/VIP support for Ogilvy leadership and agency teams
+- Act as a primary escalation point for high-impact incidents and executive support needs
+- Deliver end-to-end AV production for agency town halls, leadership sessions, and client-facing events
+- Support identity, device management, and access control within shared WPP infrastructure
+- Collaborate cross-functionally with WPP technology teams to ensure seamless service delivery
+- Contribute to documentation, process improvements, and knowledge sharing across teams
 
 ---
 
@@ -57,7 +67,7 @@ I specialize in **modern endpoint management**, **identity & access control**, a
 
 > These repositories highlight my approach to automation, systems thinking, and practical problem-solving.
 
-- **TimeCompliance macOS Kiosk App**  
+- **TimeCompliance macOS App**  
   Full-screen kiosk-style compliance app concept for workforce time entry  
 
 - **Active Directory & Finance User Audit**  
