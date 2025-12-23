@@ -1,5 +1,3 @@
-# 👋 Welcome
-
 Hi — I’m **Tamem “Tom” Jalallar**, a **Senior IT Systems Administrator / Technical Lead** with 6+ years of experience supporting enterprise environments, executive leadership, and large-scale technical operations.
 
 This repository serves as my **GitHub Resume & Portfolio**, designed to give you a clear view of:
@@ -8,8 +6,8 @@ This repository serves as my **GitHub Resume & Portfolio**, designed to give you
 - The type of problems I solve
 - How I think about systems, automation, and leadership
 
-👉 **Live site:** https://tamemjalallar.github.io  
-👉 **LinkedIn:** https://www.linkedin.com/in/TamemJalallar
+**Live site:** https://github.com/TamemJalallar
+**LinkedIn:** https://www.linkedin.com/in/TamemJalallar
 
 ---
 
